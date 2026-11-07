@@ -24,6 +24,7 @@
   "dependencies": {
     "eslint": "^10.13.0",
     "express": "^5.3.0",
+    "mongodb": "^7.7.0",
     "save-dev": "^0.0.1-security"
   },
   "devDependencies": {
